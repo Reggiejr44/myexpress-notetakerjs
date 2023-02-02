@@ -28,9 +28,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshot of Deployed site
 
-![Screenshot](./assets/images/starternotespage.jpg)
+Start Page:
+![Screenshot](./Assets/images/11-express-homework-demo-01.png)
 
-![Screenshot](./assets/images/notespage.jpg)
+Notes Page:
+![Screenshot](./Assets/images/11-express-homework-demo-02.png)
 
 ## Deployed Link
 [Deployed Site] (https://myexpress-notetakerjs.herokuapp.com/)
