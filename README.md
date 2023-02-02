@@ -27,10 +27,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Screenshot of Deployed site
-**Start Page:**
 ![Screenshot](/assets/images/starternotespage.jpg)
-
-**Notes Page:**
 ![Screenshot](/assets/images/notespage.jpg)
 
 ## Deployed Link
